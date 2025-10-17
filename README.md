@@ -34,7 +34,7 @@ Final Score = (Attendance × 0.10) + (Unit Test × 0.40) + (Achievements × 0.20
    python main.py
 
 
-🧰 Tech Stack
+##🧰 Tech Stack
 
 Language: Python
 
