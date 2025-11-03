@@ -43,3 +43,13 @@ GUI Framework: Tkinter
 Data Handling: CSV module
 
 Libraries Used: tkinter, csv, os, ttk
+
+## 📸 Screenshots
+
+<img width="522" height="529" alt="Screenshot 2025-11-03 110416" src="https://github.com/user-attachments/assets/7b751b38-4035-4947-a7df-410df653f23e" />
+
+## 👨‍💻 Author
+
+**Yogesh D. Patil**  
+
+Third Year Engineering (AI & DS)
